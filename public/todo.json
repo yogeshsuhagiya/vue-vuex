@@ -1,0 +1,20 @@
+[
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Check your mail inbox.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Read your today's tasks.",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Choose task and start work on it.",
+    "completed": false
+  }
+]
